@@ -1,0 +1,1400 @@
+{
+  "generatedAt": "2026-01-15T12:09:58.599737+00:00",
+  "timezone": "Australia/Adelaide",
+  "daysFound": 9,
+  "schedule": {
+    "2026-01-14": [
+      {
+        "name": "ALEXANDRINA RD, MOUNT BARKER",
+        "lat": -35.0764477,
+        "lon": 138.8765641
+      },
+      {
+        "name": "ASHBOURNE RD, STRATHALBYN",
+        "lat": -35.275389,
+        "lon": 138.8389808
+      },
+      {
+        "name": "CHIEF ST, BROMPTON",
+        "lat": -34.9004872,
+        "lon": 138.5771035
+      },
+      {
+        "name": "DAYS RD, CROYDON PARK",
+        "lat": -34.8755599,
+        "lon": 138.5663346
+      },
+      {
+        "name": "EAST TCE, STRATHALBYN",
+        "lat": -35.2585954,
+        "lon": 138.8987437
+      },
+      {
+        "name": "FIRST AVE, WOODVILLE GARDENS",
+        "lat": -34.8722928,
+        "lon": 138.5497583
+      },
+      {
+        "name": "FLAXLEY RD, MOUNT BARKER",
+        "lat": -35.0765652,
+        "lon": 138.854074
+      },
+      {
+        "name": "GRAND JUNCTION RD, GEPPS CROSS",
+        "lat": -34.8472256,
+        "lon": 138.6172058
+      },
+      {
+        "name": "HANSON RD, WOODVILLE GARDENS",
+        "lat": -34.8671749,
+        "lon": 138.5478948
+      },
+      {
+        "name": "HARRISON RD, RENOWN PARK",
+        "lat": -34.890369,
+        "lon": 138.5762513
+      },
+      {
+        "name": "HART ST, GLANVILLE",
+        "lat": -34.8455094,
+        "lon": 138.4885004
+      },
+      {
+        "name": "HENLEY BEACH RD, HENLEY BEACH SOUTH",
+        "lat": -34.9253617,
+        "lon": 138.5022924
+      },
+      {
+        "name": "LANGHORNE CREEK RD, STRATHALBYN",
+        "lat": -35.2609688,
+        "lon": 138.9040953
+      },
+      {
+        "name": "LONGWOOD RD, HEATHFIELD",
+        "lat": -35.0173541,
+        "lon": 138.7112568
+      },
+      {
+        "name": "MAIN NORTH RD, BLAIR ATHOL",
+        "lat": -34.8620462,
+        "lon": 138.6011109
+      },
+      {
+        "name": "NINE MILE RD, STRATHALBYN",
+        "lat": -35.3321242,
+        "lon": 138.9259567
+      },
+      {
+        "name": "OLD PRINCES HWY, NAIRNE",
+        "lat": -35.035546,
+        "lon": 138.9117672
+      },
+      {
+        "name": "ONKAPARINGA VALLEY RD, WOODSIDE",
+        "lat": -34.9505744,
+        "lon": 138.8762125
+      },
+      {
+        "name": "PORT RD, CHELTENHAM",
+        "lat": -34.8727534,
+        "lon": 138.5236109
+      },
+      {
+        "name": "PORT WAKEFIELD RD, GEPPS CROSS",
+        "lat": -34.8445196,
+        "lon": 138.5998257
+      },
+      {
+        "name": "PRINCES HWY, NAIRNE",
+        "lat": -35.0567552,
+        "lon": 138.9211699
+      },
+      {
+        "name": "RIVER RD, HAHNDORF",
+        "lat": -35.0392841,
+        "lon": 138.7758109
+      },
+      {
+        "name": "SOUTH TCE, WINGFIELD",
+        "lat": -34.8392025,
+        "lon": 138.5548808
+      },
+      {
+        "name": "TORRENS RD, CROYDON PARK",
+        "lat": -34.8860102,
+        "lon": 138.5662979
+      },
+      {
+        "name": "WAVERLEY RIDGE RD, CRAFERS WEST",
+        "lat": -35.0006032,
+        "lon": 138.7030504
+      }
+    ],
+    "2026-01-15": [
+      {
+        "name": "BRIAR RD, FELIXSTOW",
+        "lat": -34.889358,
+        "lon": 138.6430935
+      },
+      {
+        "name": "COMMERCIAL RD, SEAFORD",
+        "lat": -35.1905541,
+        "lon": 138.4775596
+      },
+      {
+        "name": "ELIZABETH RD, MORPHETT VALE",
+        "lat": -35.134277,
+        "lon": 138.5128724
+      },
+      {
+        "name": "ESPLANADE, ALDINGA BEACH",
+        "lat": -35.3119932,
+        "lon": 138.4485902
+      },
+      {
+        "name": "FITZROY TCE, NORTH ADELAIDE",
+        "lat": -34.8987962,
+        "lon": 138.5945419
+      },
+      {
+        "name": "GLEN OSMOND RD, GLEN OSMOND",
+        "lat": -34.9619888,
+        "lon": 138.6428065
+      },
+      {
+        "name": "GLYNVILLE DR, HACKHAM WEST",
+        "lat": -35.1420016,
+        "lon": 138.5163981
+      },
+      {
+        "name": "GRAND BVD, SEAFORD RISE",
+        "lat": -35.1987721,
+        "lon": 138.4859047
+      },
+      {
+        "name": "GRANT RD, REYNELLA",
+        "lat": -35.0944149,
+        "lon": 138.5308493
+      },
+      {
+        "name": "HARRIS RD, VALE PARK",
+        "lat": -34.8871388,
+        "lon": 138.6294319
+      },
+      {
+        "name": "KANGARILLA RD, KANGARILLA",
+        "lat": -35.14857,
+        "lon": 138.6612675
+      },
+      {
+        "name": "LEFEVRE TCE, NORTH ADELAIDE",
+        "lat": -34.9037479,
+        "lon": 138.5997754
+      },
+      {
+        "name": "MAIN RD, WILLUNGA",
+        "lat": -35.2699914,
+        "lon": 138.5541475
+      },
+      {
+        "name": "MAIN SOUTH RD, OLD REYNELLA",
+        "lat": -35.1028741,
+        "lon": 138.5294972
+      },
+      {
+        "name": "MAIN SOUTH RD, MORPHETT VALE",
+        "lat": -35.1075816,
+        "lon": 138.5248473
+      },
+      {
+        "name": "OLD SOUTH RD, OLD REYNELLA",
+        "lat": -35.0923885,
+        "lon": 138.540144
+      },
+      {
+        "name": "OSMOND TCE, NORWOOD",
+        "lat": -34.9183026,
+        "lon": 138.6319764
+      },
+      {
+        "name": "PORT RD, ALDINGA",
+        "lat": -35.2674054,
+        "lon": 138.4811423
+      },
+      {
+        "name": "SEAFORD RD, SEAFORD",
+        "lat": -35.180424,
+        "lon": 138.4886682
+      },
+      {
+        "name": "SEAVIEW RD, MCLAREN VALE",
+        "lat": -35.1944176,
+        "lon": 138.5161344
+      },
+      {
+        "name": "THE PARADE, KENSINGTON PARK",
+        "lat": -34.9200272,
+        "lon": 138.659845
+      },
+      {
+        "name": "WAKEFIELD RD, ADELAIDE",
+        "lat": -34.9276834,
+        "lon": 138.6221903
+      },
+      {
+        "name": "WALKERVILLE TCE, GILBERTON",
+        "lat": -34.9006002,
+        "lon": 138.6106001
+      },
+      {
+        "name": "WAR MEMORIAL DR, NORTH ADELAIDE",
+        "lat": -34.9159453,
+        "lon": 138.6016133
+      },
+      {
+        "name": "WATTLE ST, FULLARTON",
+        "lat": -34.9539885,
+        "lon": 138.6226093
+      }
+    ],
+    "2026-01-16": [
+      {
+        "name": "ADAMS RD, CRAIGMORE",
+        "lat": -34.7050751,
+        "lon": 138.7012678
+      },
+      {
+        "name": "ADDISON RD, PENNINGTON",
+        "lat": -34.8632966,
+        "lon": 138.5293957
+      },
+      {
+        "name": "AIRPORT RD, BROOKLYN PARK",
+        "lat": -34.932214,
+        "lon": 138.5416276
+      },
+      {
+        "name": "ANDERSON WALK, SMITHFIELD",
+        "lat": -34.6821775,
+        "lon": 138.6893065
+      },
+      {
+        "name": "BLACK TOP RD, HILLBANK",
+        "lat": -34.746358,
+        "lon": 138.6837387
+      },
+      {
+        "name": "BLACK TOP RD, ONE TREE HILL",
+        "lat": -34.718558,
+        "lon": 138.7707876
+      },
+      {
+        "name": "BOLIVAR RD, BURTON",
+        "lat": -34.7481362,
+        "lon": 138.6065591
+      },
+      {
+        "name": "BROOKER TCE, RICHMOND",
+        "lat": -34.9355576,
+        "lon": 138.5617817
+      },
+      {
+        "name": "CRITTENDEN RD, FINDON",
+        "lat": -34.9041384,
+        "lon": 138.5454068
+      },
+      {
+        "name": "DAYS RD, FERRYDEN PARK",
+        "lat": -34.8750528,
+        "lon": 138.5662179
+      },
+      {
+        "name": "DAYS RD, CROYDON PARK",
+        "lat": -34.8755599,
+        "lon": 138.5663346
+      },
+      {
+        "name": "DIMENT RD, SALISBURY NORTH",
+        "lat": -34.7413848,
+        "lon": 138.6287378
+      },
+      {
+        "name": "EDINBURGH RD, EDINBURGH",
+        "lat": -34.7265289,
+        "lon": 138.6138874
+      },
+      {
+        "name": "GALWAY AVE, BROADVIEW",
+        "lat": -34.8752577,
+        "lon": 138.6141848
+      },
+      {
+        "name": "KESTERS RD, PARA HILLS WEST",
+        "lat": -34.8008294,
+        "lon": 138.6395484
+      },
+      {
+        "name": "MAIN NORTH RD, SMITHFIELD",
+        "lat": -34.6870332,
+        "lon": 138.6910764
+      },
+      {
+        "name": "MAIN NORTH RD, MAWSON LAKES",
+        "lat": -34.8108917,
+        "lon": 138.6297373
+      },
+      {
+        "name": "MARTINS RD, PARAFIELD GARDENS",
+        "lat": -34.7776428,
+        "lon": 138.612175
+      },
+      {
+        "name": "MAWSON LAKES BVD, MAWSON LAKES",
+        "lat": -34.8173465,
+        "lon": 138.6079337
+      },
+      {
+        "name": "NORTH PDE, TORRENSVILLE",
+        "lat": -34.9204204,
+        "lon": 138.5580491
+      },
+      {
+        "name": "PORT WAKEFIELD RD, GEPPS CROSS",
+        "lat": -34.8445196,
+        "lon": 138.5998257
+      },
+      {
+        "name": "SALISBURY HWY, PARAFIELD GARDENS",
+        "lat": -34.7813304,
+        "lon": 138.6243931
+      },
+      {
+        "name": "TAPLEYS HILL RD, FULHAM",
+        "lat": -34.9283157,
+        "lon": 138.5175805
+      },
+      {
+        "name": "TRIMMER PDE, SEATON",
+        "lat": -34.8920385,
+        "lon": 138.5049797
+      },
+      {
+        "name": "YORKTOWN RD, ELIZABETH PARK",
+        "lat": -34.7117589,
+        "lon": 138.6829631
+      }
+    ],
+    "2026-01-17": [
+      {
+        "name": "BALDOCK RD, INGLE FARM",
+        "lat": -34.8265997,
+        "lon": 138.657756
+      },
+      {
+        "name": "BALMORAL RD, DERNANCOURT",
+        "lat": -34.8603777,
+        "lon": 138.6797735
+      },
+      {
+        "name": "BEOVICH RD, INGLE FARM",
+        "lat": -34.8297252,
+        "lon": 138.6411637
+      },
+      {
+        "name": "BIRDWOOD TCE, NORTH PLYMPTON",
+        "lat": -34.9577889,
+        "lon": 138.5560581
+      },
+      {
+        "name": "BLACK RD, O'HALLORAN HILL",
+        "lat": -35.0548097,
+        "lon": 138.5616434
+      },
+      {
+        "name": "BLACKS RD, GILLES PLAINS",
+        "lat": -34.8574157,
+        "lon": 138.6541391
+      },
+      {
+        "name": "DARLEY RD, PARADISE",
+        "lat": -34.8650469,
+        "lon": 138.6613306
+      },
+      {
+        "name": "DAWS RD, MELROSE PARK",
+        "lat": -34.9927251,
+        "lon": 138.575244
+      },
+      {
+        "name": "DUTHY ST, MALVERN",
+        "lat": -34.9649042,
+        "lon": 138.6153849
+      },
+      {
+        "name": "GORGE RD, ATHELSTONE",
+        "lat": -34.8650918,
+        "lon": 138.7090711
+      },
+      {
+        "name": "GRAND JUNCTION RD, GILLES PLAINS",
+        "lat": -34.844971,
+        "lon": 138.6711198
+      },
+      {
+        "name": "GRAVES ST, NEWTON",
+        "lat": -34.8812064,
+        "lon": 138.6811379
+      },
+      {
+        "name": "HARVEY AVE, NETLEY",
+        "lat": -34.9512915,
+        "lon": 138.5529776
+      },
+      {
+        "name": "LEWIS ST, BRIGHTON",
+        "lat": -35.0231148,
+        "lon": 138.5278921
+      },
+      {
+        "name": "LYONS RD, HOLDEN HILL",
+        "lat": -34.8576296,
+        "lon": 138.6624868
+      },
+      {
+        "name": "MONTAGUE RD, PARA VISTA",
+        "lat": -34.8293037,
+        "lon": 138.6684252
+      },
+      {
+        "name": "MORTIMER ST, KURRALTA PARK",
+        "lat": -34.9533574,
+        "lon": 138.5686229
+      },
+      {
+        "name": "NELSON RD, PARA VISTA",
+        "lat": -34.8208723,
+        "lon": 138.6612346
+      },
+      {
+        "name": "QUICK RD, MITCHELL PARK",
+        "lat": -35.002804,
+        "lon": 138.5610038
+      },
+      {
+        "name": "RAGLAN AVE, EDWARDSTOWN",
+        "lat": -34.9799149,
+        "lon": 138.566951
+      },
+      {
+        "name": "RESEARCH RD, POORAKA",
+        "lat": -34.8156815,
+        "lon": 138.6341404
+      },
+      {
+        "name": "SIR ROSS SMITH BVD, OAKDEN",
+        "lat": -34.8539702,
+        "lon": 138.6460475
+      },
+      {
+        "name": "WALKERVILLE TCE, GILBERTON",
+        "lat": -34.9006002,
+        "lon": 138.6106001
+      },
+      {
+        "name": "WATSON AVE, NETLEY",
+        "lat": -34.9482524,
+        "lon": 138.5513658
+      },
+      {
+        "name": "WRIGHT RD, WALKLEY HEIGHTS",
+        "lat": -34.8348413,
+        "lon": 138.62692
+      }
+    ],
+    "2026-01-18": [
+      {
+        "name": "ADELAIDE RD, MANNUM",
+        "lat": -34.9086704,
+        "lon": 139.2923651
+      },
+      {
+        "name": "BARTLEY TCE, WEST LAKES SHORE",
+        "lat": -34.8587549,
+        "lon": 138.4934901
+      },
+      {
+        "name": "BELVEDERE RD, MANNUM",
+        "lat": -34.9237294,
+        "lon": 139.2977274
+      },
+      {
+        "name": "COMMERCIAL RD, PORT ADELAIDE",
+        "lat": -34.8441189,
+        "lon": 138.5052887
+      },
+      {
+        "name": "EAST TCE, CALLINGTON",
+        "lat": -35.1120925,
+        "lon": 139.0458446
+      },
+      {
+        "name": "ESPLANADE, SEMAPHORE",
+        "lat": -34.8379258,
+        "lon": 138.4803759
+      },
+      {
+        "name": "FAIRFORD TCE, SEMAPHORE PARK",
+        "lat": -34.8541148,
+        "lon": 138.4883313
+      },
+      {
+        "name": "FLETCHER RD, PETERHEAD",
+        "lat": -34.8315628,
+        "lon": 138.4965538
+      },
+      {
+        "name": "HARGRAVE ST, PETERHEAD",
+        "lat": -34.8334799,
+        "lon": 138.4967185
+      },
+      {
+        "name": "HOMBURG DR, MURRAY BRIDGE",
+        "lat": -35.1377581,
+        "lon": 139.2793985
+      },
+      {
+        "name": "JETTY RD, LARGS BAY",
+        "lat": -34.825544,
+        "lon": 138.4978345
+      },
+      {
+        "name": "LADY GOWRIE DR, NORTH HAVEN",
+        "lat": -34.7907125,
+        "lon": 138.4907047
+      },
+      {
+        "name": "MULGUNDAWAH RD, MURRAY BRIDGE",
+        "lat": -35.1288851,
+        "lon": 139.2792612
+      },
+      {
+        "name": "OLD PORT RD, ROYAL PARK",
+        "lat": -34.8652128,
+        "lon": 138.5114653
+      },
+      {
+        "name": "OLD PRINCES HWY, MONARTO SOUTH",
+        "lat": -35.1185474,
+        "lon": 139.1381087
+      },
+      {
+        "name": "PORT RD, ALBERTON",
+        "lat": -34.8640414,
+        "lon": 138.5156943
+      },
+      {
+        "name": "PORT RD, CHELTENHAM",
+        "lat": -34.8727534,
+        "lon": 138.5236109
+      },
+      {
+        "name": "PRINCES HWY, MONTEITH",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "name": "PRINCES HWY, TAILEM BEND",
+        "lat": -35.2523537,
+        "lon": 139.4512838
+      },
+      {
+        "name": "RANDELL RD, TUNGKILLO",
+        "lat": -34.8104375,
+        "lon": 139.0295885
+      },
+      {
+        "name": "REEDY CREEK RD, PALMER",
+        "lat": -34.8743268,
+        "lon": 139.1613148
+      },
+      {
+        "name": "SAINT VINCENT ST, PORT ADELAIDE",
+        "lat": -34.8462367,
+        "lon": 138.4967426
+      },
+      {
+        "name": "SWANPORT RD, MURRAY BRIDGE",
+        "lat": -35.1310373,
+        "lon": 139.2801599
+      },
+      {
+        "name": "TERLINGA RD, TUNGKILLO",
+        "lat": -34.8661429,
+        "lon": 139.0072059
+      },
+      {
+        "name": "WALKER AVE, MANNUM",
+        "lat": -34.9107125,
+        "lon": 139.3069972
+      },
+      {
+        "name": "WOOLNOUGH RD, LARGS BAY",
+        "lat": -34.8311818,
+        "lon": 138.4872423
+      }
+    ],
+    "2026-01-19": [
+      {
+        "name": "ADELAIDE TCE, EDWARDSTOWN",
+        "lat": -34.9833377,
+        "lon": 138.5672205
+      },
+      {
+        "name": "BIRDWOOD TCE, NORTH PLYMPTON",
+        "lat": -34.9577889,
+        "lon": 138.5560581
+      },
+      {
+        "name": "CAVAN RD, DRY CREEK",
+        "lat": -34.8373392,
+        "lon": 138.5989021
+      },
+      {
+        "name": "DIMENT RD, SALISBURY NORTH",
+        "lat": -34.7413848,
+        "lon": 138.6287378
+      },
+      {
+        "name": "DUTHY ST, MALVERN",
+        "lat": -34.9649042,
+        "lon": 138.6153849
+      },
+      {
+        "name": "EAST PKWY, COLONEL LIGHT GARDENS",
+        "lat": -34.9824916,
+        "lon": 138.598873
+      },
+      {
+        "name": "GODDARD DR, SALISBURY PARK",
+        "lat": -34.7599509,
+        "lon": 138.6639502
+      },
+      {
+        "name": "HARVEY AVE, NETLEY",
+        "lat": -34.9512915,
+        "lon": 138.5529776
+      },
+      {
+        "name": "KESTERS RD, PARA HILLS",
+        "lat": -34.8095722,
+        "lon": 138.6539195
+      },
+      {
+        "name": "KINGS RD, PARALOWIE",
+        "lat": -34.7646864,
+        "lon": 138.602511
+      },
+      {
+        "name": "MAWSON LAKES BVD, MAWSON LAKES",
+        "lat": -34.8173465,
+        "lon": 138.6079337
+      },
+      {
+        "name": "MCINTYRE RD, SALISBURY EAST",
+        "lat": -34.7919608,
+        "lon": 138.6475891
+      },
+      {
+        "name": "NORTH SOUTH MOTORWAY, WATERLOO CORNER",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "name": "PORT WAKEFIELD RD, WATERLOO CORNER",
+        "lat": -34.7245984,
+        "lon": 138.5797537
+      },
+      {
+        "name": "PURLING AVE, EDINBURGH",
+        "lat": -34.7329578,
+        "lon": 138.6369074
+      },
+      {
+        "name": "RAGLAN AVE, EDWARDSTOWN",
+        "lat": -34.9799149,
+        "lon": 138.566951
+      },
+      {
+        "name": "RICHMOND AVE, COLONEL LIGHT GARDENS",
+        "lat": -34.9816175,
+        "lon": 138.5874358
+      },
+      {
+        "name": "SHEPHERDSON RD, PARAFIELD GARDENS",
+        "lat": -34.7847204,
+        "lon": 138.6129794
+      },
+      {
+        "name": "SPRINGBANK RD, COLONEL LIGHT GARDENS",
+        "lat": -34.9904316,
+        "lon": 138.6001696
+      },
+      {
+        "name": "STURTON RD, EDINBURGH",
+        "lat": -34.7262364,
+        "lon": 138.6299497
+      },
+      {
+        "name": "WATTLE ST, MALVERN",
+        "lat": -34.9543465,
+        "lon": 138.6159241
+      },
+      {
+        "name": "WHITES RD, PARALOWIE",
+        "lat": -34.7622471,
+        "lon": 138.6098333
+      },
+      {
+        "name": "WINIFRED AVE, SOUTH PLYMPTON",
+        "lat": -34.9653764,
+        "lon": 138.5637472
+      },
+      {
+        "name": "WINIFRED AVE, GLANDORE",
+        "lat": -34.9630018,
+        "lon": 138.5636222
+      }
+    ],
+    "2026-01-20": [
+      {
+        "name": "ALEXANDRINA RD, MOUNT BARKER",
+        "lat": -35.0764477,
+        "lon": 138.8765641
+      },
+      {
+        "name": "ASHBOURNE RD, STRATHALBYN",
+        "lat": -35.275389,
+        "lon": 138.8389808
+      },
+      {
+        "name": "BALDOCK RD, INGLE FARM",
+        "lat": -34.8265997,
+        "lon": 138.657756
+      },
+      {
+        "name": "BALMORAL RD, DERNANCOURT",
+        "lat": -34.8603777,
+        "lon": 138.6797735
+      },
+      {
+        "name": "BARKER RD, MOUNT BARKER",
+        "lat": -35.0840779,
+        "lon": 138.8595786
+      },
+      {
+        "name": "BLACKS RD, GILLES PLAINS",
+        "lat": -34.8574157,
+        "lon": 138.6541391
+      },
+      {
+        "name": "CHARMAINE AVE, PARA VISTA",
+        "lat": -34.8319801,
+        "lon": 138.6678734
+      },
+      {
+        "name": "DRY PLAINS RD, STRATHALBYN",
+        "lat": -35.3098046,
+        "lon": 138.894056
+      },
+      {
+        "name": "ECHUNGA RD, ECHUNGA",
+        "lat": -35.0599916,
+        "lon": 138.8048782
+      },
+      {
+        "name": "FLAXLEY RD, MOUNT BARKER",
+        "lat": -35.0765652,
+        "lon": 138.854074
+      },
+      {
+        "name": "FLAXLEY RD, FLAXLEY",
+        "lat": null,
+        "lon": null
+      },
+      {
+        "name": "GORGE RD, ATHELSTONE",
+        "lat": -34.8650918,
+        "lon": 138.7090711
+      },
+      {
+        "name": "GRAND JUNCTION RD, NORTHGATE",
+        "lat": -34.8470976,
+        "lon": 138.6306307
+      },
+      {
+        "name": "GRAND JUNCTION RD, HOPE VALLEY",
+        "lat": -34.839619,
+        "lon": 138.7199212
+      },
+      {
+        "name": "HARRIS RD, VALE PARK",
+        "lat": -34.8871388,
+        "lon": 138.6294319
+      },
+      {
+        "name": "HAWTHORN RD, MOUNT BARKER",
+        "lat": -35.0748953,
+        "lon": 138.8404109
+      },
+      {
+        "name": "LONGWOOD RD, HEATHFIELD",
+        "lat": -35.0173541,
+        "lon": 138.7112568
+      },
+      {
+        "name": "MARYVALE RD, ATHELSTONE",
+        "lat": -34.8824025,
+        "lon": 138.7006426
+      },
+      {
+        "name": "MOUNT LOFTY SUMMIT RD, CRAFERS",
+        "lat": -34.9826192,
+        "lon": 138.7086527
+      },
+      {
+        "name": "NELSON RD, INGLE FARM",
+        "lat": -34.8208781,
+        "lon": 138.6611326
+      },
+      {
+        "name": "NORTH EAST RD, ST AGNES",
+        "lat": -34.8271496,
+        "lon": 138.7056573
+      },
+      {
+        "name": "PERSEVERANCE RD, VISTA",
+        "lat": -34.8309054,
+        "lon": 138.7263244
+      },
+      {
+        "name": "RIVER RD, HAHNDORF",
+        "lat": -35.0392841,
+        "lon": 138.7758109
+      },
+      {
+        "name": "VICTORIA RD, MOUNT BARKER",
+        "lat": -35.0769069,
+        "lon": 138.8678017
+      },
+      {
+        "name": "WEST TCE, STRATHALBYN",
+        "lat": -35.2596608,
+        "lon": 138.8888658
+      }
+    ],
+    "2026-01-12": [
+      {
+        "name": "ARTHUR GLENNIE DR, WHYALLA BARSON",
+        "lat": -33.0088233,
+        "lon": 137.5644652
+      },
+      {
+        "name": "BAY RD, MOUNT GAMBIER",
+        "lat": -37.8467234,
+        "lon": 140.7688617
+      },
+      {
+        "name": "BIRDSEYE HWY, CLEVE",
+        "lat": -33.6433652,
+        "lon": 136.0520945
+      },
+      {
+        "name": "BROADBENT TCE, WHYALLA NORRIE",
+        "lat": -33.041745,
+        "lon": 137.5461936
+      },
+      {
+        "name": "CHURCH ST, PENOLA",
+        "lat": -37.3642149,
+        "lon": 140.8391768
+      },
+      {
+        "name": "DUKES HWY, KEITH",
+        "lat": -36.1030986,
+        "lon": 140.3602827
+      },
+      {
+        "name": "DUKES HWY, BORDERTOWN",
+        "lat": -36.3080462,
+        "lon": 140.7788984
+      },
+      {
+        "name": "FLINDERS HWY, WANGARY",
+        "lat": -34.5830601,
+        "lon": 135.5798825
+      },
+      {
+        "name": "JENKINS TCE, NARACOORTE",
+        "lat": -36.9620741,
+        "lon": 140.7455102
+      },
+      {
+        "name": "LINCOLN HWY, NORTH SHIELDS",
+        "lat": -34.60212,
+        "lon": 135.8722797
+      },
+      {
+        "name": "LINCOLN HWY, PORT LINCOLN",
+        "lat": -34.6994286,
+        "lon": 135.8542806
+      },
+      {
+        "name": "LINCOLN HWY, TUMBY BAY",
+        "lat": -34.1597504,
+        "lon": 136.257904
+      },
+      {
+        "name": "LINCOLN HWY, CULTANA",
+        "lat": -32.7131123,
+        "lon": 137.5043041
+      },
+      {
+        "name": "MARINA DR, PORT LINCOLN",
+        "lat": -34.7413462,
+        "lon": 135.8667377
+      },
+      {
+        "name": "MCBRYDE TCE, WHYALLA NORRIE",
+        "lat": -33.0126728,
+        "lon": 137.5423691
+      },
+      {
+        "name": "MCDOUALL STUART AVE, WHYALLA STUART",
+        "lat": -33.0188421,
+        "lon": 137.5306585
+      },
+      {
+        "name": "MCDOUALL STUART AVE, WHYALLA NORRIE",
+        "lat": -33.0294072,
+        "lon": 137.5297838
+      },
+      {
+        "name": "MEATWORKS RD, BORDERTOWN",
+        "lat": -36.3020822,
+        "lon": 140.7371967
+      },
+      {
+        "name": "MORTLOCK TCE, PORT LINCOLN",
+        "lat": -34.7240586,
+        "lon": 135.8590557
+      },
+      {
+        "name": "MOUNT GAMBIER RD, MILLICENT",
+        "lat": -37.6210364,
+        "lon": 140.3797788
+      },
+      {
+        "name": "NEW WEST RD, PORT LINCOLN",
+        "lat": -34.723866,
+        "lon": 135.8472831
+      },
+      {
+        "name": "NICOLSON AVE, WHYALLA STUART",
+        "lat": -33.020597,
+        "lon": 137.5184304
+      },
+      {
+        "name": "NICOLSON AVE, WHYALLA NORRIE",
+        "lat": -33.0261138,
+        "lon": 137.5324168
+      },
+      {
+        "name": "NORRIE AVE, WHYALLA NORRIE",
+        "lat": -33.0314768,
+        "lon": 137.5511242
+      },
+      {
+        "name": "NORTH TCE, MOUNT GAMBIER",
+        "lat": -37.8274617,
+        "lon": 140.7955472
+      },
+      {
+        "name": "OXFORD TCE, PORT LINCOLN",
+        "lat": -34.7181911,
+        "lon": 135.8483254
+      },
+      {
+        "name": "PENOLA RD, MOUNT GAMBIER",
+        "lat": -37.8072671,
+        "lon": 140.7912734
+      },
+      {
+        "name": "PICK AVE, MOUNT GAMBIER",
+        "lat": -37.8394646,
+        "lon": 140.7965087
+      },
+      {
+        "name": "PORT LINCOLN, PORT LINCOLN",
+        "lat": -34.7211905,
+        "lon": 135.8592218
+      },
+      {
+        "name": "PRINCES HWY, MILLICENT",
+        "lat": -37.6643342,
+        "lon": 140.4178778
+      },
+      {
+        "name": "PRINCES HWY, TANTANOOLA",
+        "lat": -37.7239893,
+        "lon": 140.5057875
+      },
+      {
+        "name": "RACECOURSE RD, WHYALLA NORRIE",
+        "lat": -33.0349248,
+        "lon": 137.5410786
+      },
+      {
+        "name": "RAILWAY TCE, BEACHPORT",
+        "lat": -37.4782607,
+        "lon": 140.0096677
+      },
+      {
+        "name": "RAILWAY TCE EAST, TANTANOOLA",
+        "lat": -37.6962562,
+        "lon": 140.4560266
+      },
+      {
+        "name": "RIDDOCH HWY, PENOLA",
+        "lat": -37.4284021,
+        "lon": 140.8420236
+      },
+      {
+        "name": "RIDDOCH HWY, NARACOORTE",
+        "lat": -36.9634158,
+        "lon": 140.7344287
+      },
+      {
+        "name": "RIDDOCH HWY, COONAWARRA",
+        "lat": -37.1830633,
+        "lon": 140.8397028
+      },
+      {
+        "name": "SHEPHERDSON RD, MOUNT GAMBIER",
+        "lat": -37.8318724,
+        "lon": 140.7666444
+      },
+      {
+        "name": "SMITH ST, NARACOORTE",
+        "lat": -36.9558662,
+        "lon": 140.7425429
+      },
+      {
+        "name": "SOUTHERN PORTS HWY, BEACHPORT",
+        "lat": -37.5031954,
+        "lon": 140.1021314
+      },
+      {
+        "name": "SOUTHERN PORTS HWY, BEACHPORT",
+        "lat": -37.5031954,
+        "lon": 140.1021314
+      },
+      {
+        "name": "STEWART TCE, NARACOORTE",
+        "lat": -36.9430883,
+        "lon": 140.7245335
+      },
+      {
+        "name": "STIRLING DR, WHYALLA STUART",
+        "lat": -33.042139,
+        "lon": 137.5239557
+      },
+      {
+        "name": "STURT ST, MOUNT GAMBIER",
+        "lat": -37.8339862,
+        "lon": 140.7906619
+      },
+      {
+        "name": "SUTTONTOWN RD, MOUNT GAMBIER",
+        "lat": -37.8030598,
+        "lon": 140.7725374
+      },
+      {
+        "name": "TOD HWY, CUMMINS",
+        "lat": -34.2526971,
+        "lon": 135.728524
+      },
+      {
+        "name": "VERRAN TCE, PORT LINCOLN",
+        "lat": -34.7339154,
+        "lon": 135.8552699
+      },
+      {
+        "name": "WASHINGTON ST, PORT LINCOLN",
+        "lat": -34.7242002,
+        "lon": 135.8664747
+      },
+      {
+        "name": "WESTERN APPROACH RD, PORT LINCOLN",
+        "lat": -34.74478,
+        "lon": 135.8466509
+      },
+      {
+        "name": "WILLIAMS RD, MILLICENT",
+        "lat": -37.5957884,
+        "lon": 140.3435887
+      }
+    ],
+    "2026-01-25": [
+      {
+        "name": "ARTHUR GLENNIE DR, WHYALLA BARSON",
+        "lat": -33.0088233,
+        "lon": 137.5644652
+      },
+      {
+        "name": "BAY RD, MOUNT GAMBIER",
+        "lat": -37.8467234,
+        "lon": 140.7688617
+      },
+      {
+        "name": "BIRDSEYE HWY, CLEVE",
+        "lat": -33.6433652,
+        "lon": 136.0520945
+      },
+      {
+        "name": "BROADBENT TCE, WHYALLA NORRIE",
+        "lat": -33.041745,
+        "lon": 137.5461936
+      },
+      {
+        "name": "CHURCH ST, PENOLA",
+        "lat": -37.3642149,
+        "lon": 140.8391768
+      },
+      {
+        "name": "DUKES HWY, KEITH",
+        "lat": -36.1030986,
+        "lon": 140.3602827
+      },
+      {
+        "name": "DUKES HWY, BORDERTOWN",
+        "lat": -36.3080462,
+        "lon": 140.7788984
+      },
+      {
+        "name": "FLINDERS HWY, WANGARY",
+        "lat": -34.5830601,
+        "lon": 135.5798825
+      },
+      {
+        "name": "JENKINS TCE, NARACOORTE",
+        "lat": -36.9620741,
+        "lon": 140.7455102
+      },
+      {
+        "name": "LINCOLN HWY, NORTH SHIELDS",
+        "lat": -34.60212,
+        "lon": 135.8722797
+      },
+      {
+        "name": "LINCOLN HWY, PORT LINCOLN",
+        "lat": -34.6994286,
+        "lon": 135.8542806
+      },
+      {
+        "name": "LINCOLN HWY, TUMBY BAY",
+        "lat": -34.1597504,
+        "lon": 136.257904
+      },
+      {
+        "name": "LINCOLN HWY, CULTANA",
+        "lat": -32.7131123,
+        "lon": 137.5043041
+      },
+      {
+        "name": "MARINA DR, PORT LINCOLN",
+        "lat": -34.7413462,
+        "lon": 135.8667377
+      },
+      {
+        "name": "MCBRYDE TCE, WHYALLA NORRIE",
+        "lat": -33.0126728,
+        "lon": 137.5423691
+      },
+      {
+        "name": "MCDOUALL STUART AVE, WHYALLA STUART",
+        "lat": -33.0188421,
+        "lon": 137.5306585
+      },
+      {
+        "name": "MCDOUALL STUART AVE, WHYALLA NORRIE",
+        "lat": -33.0294072,
+        "lon": 137.5297838
+      },
+      {
+        "name": "MEATWORKS RD, BORDERTOWN",
+        "lat": -36.3020822,
+        "lon": 140.7371967
+      },
+      {
+        "name": "MORTLOCK TCE, PORT LINCOLN",
+        "lat": -34.7240586,
+        "lon": 135.8590557
+      },
+      {
+        "name": "MOUNT GAMBIER RD, MILLICENT",
+        "lat": -37.6210364,
+        "lon": 140.3797788
+      },
+      {
+        "name": "NEW WEST RD, PORT LINCOLN",
+        "lat": -34.723866,
+        "lon": 135.8472831
+      },
+      {
+        "name": "NICOLSON AVE, WHYALLA STUART",
+        "lat": -33.020597,
+        "lon": 137.5184304
+      },
+      {
+        "name": "NICOLSON AVE, WHYALLA NORRIE",
+        "lat": -33.0261138,
+        "lon": 137.5324168
+      },
+      {
+        "name": "NORRIE AVE, WHYALLA NORRIE",
+        "lat": -33.0314768,
+        "lon": 137.5511242
+      },
+      {
+        "name": "NORTH TCE, MOUNT GAMBIER",
+        "lat": -37.8274617,
+        "lon": 140.7955472
+      },
+      {
+        "name": "OXFORD TCE, PORT LINCOLN",
+        "lat": -34.7181911,
+        "lon": 135.8483254
+      },
+      {
+        "name": "PENOLA RD, MOUNT GAMBIER",
+        "lat": -37.8072671,
+        "lon": 140.7912734
+      },
+      {
+        "name": "PICK AVE, MOUNT GAMBIER",
+        "lat": -37.8394646,
+        "lon": 140.7965087
+      },
+      {
+        "name": "PORT LINCOLN, PORT LINCOLN",
+        "lat": -34.7211905,
+        "lon": 135.8592218
+      },
+      {
+        "name": "PRINCES HWY, MILLICENT",
+        "lat": -37.6643342,
+        "lon": 140.4178778
+      },
+      {
+        "name": "PRINCES HWY, TANTANOOLA",
+        "lat": -37.7239893,
+        "lon": 140.5057875
+      },
+      {
+        "name": "RACECOURSE RD, WHYALLA NORRIE",
+        "lat": -33.0349248,
+        "lon": 137.5410786
+      },
+      {
+        "name": "RAILWAY TCE, BEACHPORT",
+        "lat": -37.4782607,
+        "lon": 140.0096677
+      },
+      {
+        "name": "RAILWAY TCE EAST, TANTANOOLA",
+        "lat": -37.6962562,
+        "lon": 140.4560266
+      },
+      {
+        "name": "RIDDOCH HWY, PENOLA",
+        "lat": -37.4284021,
+        "lon": 140.8420236
+      },
+      {
+        "name": "RIDDOCH HWY, NARACOORTE",
+        "lat": -36.9634158,
+        "lon": 140.7344287
+      },
+      {
+        "name": "RIDDOCH HWY, COONAWARRA",
+        "lat": -37.1830633,
+        "lon": 140.8397028
+      },
+      {
+        "name": "SHEPHERDSON RD, MOUNT GAMBIER",
+        "lat": -37.8318724,
+        "lon": 140.7666444
+      },
+      {
+        "name": "SMITH ST, NARACOORTE",
+        "lat": -36.9558662,
+        "lon": 140.7425429
+      },
+      {
+        "name": "SOUTHERN PORTS HWY, BEACHPORT",
+        "lat": -37.5031954,
+        "lon": 140.1021314
+      },
+      {
+        "name": "SOUTHERN PORTS HWY, BEACHPORT",
+        "lat": -37.5031954,
+        "lon": 140.1021314
+      },
+      {
+        "name": "STEWART TCE, NARACOORTE",
+        "lat": -36.9430883,
+        "lon": 140.7245335
+      },
+      {
+        "name": "STIRLING DR, WHYALLA STUART",
+        "lat": -33.042139,
+        "lon": 137.5239557
+      },
+      {
+        "name": "STURT ST, MOUNT GAMBIER",
+        "lat": -37.8339862,
+        "lon": 140.7906619
+      },
+      {
+        "name": "SUTTONTOWN RD, MOUNT GAMBIER",
+        "lat": -37.8030598,
+        "lon": 140.7725374
+      },
+      {
+        "name": "TOD HWY, CUMMINS",
+        "lat": -34.2526971,
+        "lon": 135.728524
+      },
+      {
+        "name": "VERRAN TCE, PORT LINCOLN",
+        "lat": -34.7339154,
+        "lon": 135.8552699
+      },
+      {
+        "name": "WASHINGTON ST, PORT LINCOLN",
+        "lat": -34.7242002,
+        "lon": 135.8664747
+      },
+      {
+        "name": "WESTERN APPROACH RD, PORT LINCOLN",
+        "lat": -34.74478,
+        "lon": 135.8466509
+      },
+      {
+        "name": "WILLIAMS RD, MILLICENT",
+        "lat": -37.5957884,
+        "lon": 140.3435887
+      }
+    ]
+  }
+}
